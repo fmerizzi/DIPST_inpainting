@@ -43,3 +43,10 @@ DIPST Animation
 Inpainting IR using as a style source the color image 
 
 ![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif5/gif.gif)
+
+## Inpainting a color image with large occlusion 
+
+
+DIP ----------------------------------------------------------------------------------------------------- DIPST
+
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-21%2014:00:44.461841stWgh-0.02.png" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-21%2013:49:19.416151stWgh-0.1.png" width=45% height=45%> 
