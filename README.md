@@ -50,3 +50,12 @@ Inpainting IR using as a style source the color image
 DIP ----------------------------------------------------------------------------------------------------- DIPST
 
 <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-21%2014:00:44.461841stWgh-0.02.png" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-21%2013:49:19.416151stWgh-0.1.png" width=45% height=45%> 
+
+
+## What if I compare it with a raw style transfer on the original image? 
+
+
+DIPST ------------------------------------------------------------------------------------------------ style transfer
+
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-21%2013:49:19.416151stWgh-0.1.png" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2013:22:48.384908TMP-30.png" width=45% height=45%> 
+
