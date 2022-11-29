@@ -9,9 +9,9 @@ IR1 ----------------------------------------------------------------------- IR2
 
 Images taken with a color camera
 
-Original image ----------------------------------mask----------------------------------------------style source 
+Original image --------------------------------------mask------------------------------------------------style source 
 
-<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1.jpeg" width=30% height=30%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1_mask%26image.jpeg" width=30% height=30%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop2.jpeg" width=30% height=30%>
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1.jpeg" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1_mask%26image.jpeg" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop2.jpeg" width=32% height=32%>
 
 ## inpainting IR1
 Style source is IR2
