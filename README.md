@@ -61,3 +61,7 @@ DIPST --------------------------------------------------------------------------
 
 <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-21%2013:49:19.416151stWgh-0.1.png" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2013:22:48.384908TMP-30.png" width=45% height=45%> 
 
+
+## Optimizing style only, using IR-1
+
+![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif2/gif.gif)
