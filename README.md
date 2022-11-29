@@ -30,7 +30,7 @@ DIPST Animation
 ## inpainting IR2
 Style source is IR1
 
-DIP ----------------------------------------------------------------------------------------------------- DIPST 
+Original-------------------------------------------DIP--------------------------------------------------------- DIPST 
 
 <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/IR-2.jpg" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/dip.png" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2012:28:32.855615stWgh-0.05dipst.png" width=32% height=32%> 
 
