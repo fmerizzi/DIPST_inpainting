@@ -13,9 +13,9 @@ Original image ----------------------------------mask---------------------------
 
 ## inpainting IR1
 
-DIP ----------------------------------------------------------------------- DIPST 
+DIP ---------------------------------------------------------------------------------------------------- DIPST 
 
-<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2011:57:52.864176stWgh-0.02dip.png" width=40% height=40%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2012:03:45.907329stWgh-0.02dipst.png" width=40% height=40%> 
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2011:57:52.864176stWgh-0.02dip.png" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2012:03:45.907329stWgh-0.02dipst.png" width=45% height=45%> 
 
 
 DIPST Animation 
@@ -26,7 +26,7 @@ DIPST Animation
 
 ## inpainting IR2
 
-DIP ----------------------------------------------------------------------- DIPST 
+DIP ----------------------------------------------------------------------------------------------------- DIPST 
 
 <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/dip.png" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2012:28:32.855615stWgh-0.05dipst.png" width=45% height=45%> 
 
