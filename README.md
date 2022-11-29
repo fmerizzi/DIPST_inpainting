@@ -22,3 +22,16 @@ DIPST Animation
 
 
 ![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif1/gif.gif)
+
+
+## inpainting IR2
+
+DIP ----------------------------------------------------------------------- DIPST 
+
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2011:57:52.864176stWgh-0.02dip.png" width=40% height=40%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/dip.png" width=40% height=40%> 
+
+
+DIPST Animation 
+
+
+![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif3/gif.gif)
