@@ -14,7 +14,7 @@ Original image ----------------------------------mask---------------------------
 ## inpainting IR1
 
 DIP ----------------------------------------------------------------------- DIPST 
-![DIP](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2011:57:52.864176stWgh-0.02dip.png | width=40%)
+![DIP](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2011:57:52.864176stWgh-0.02dip.png | width=40)
 ![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2012:03:45.907329stWgh-0.02dipst.png)
 
 
