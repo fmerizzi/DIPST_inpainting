@@ -1,6 +1,6 @@
 # Experiments using DIPST for inpainting medieval frescoes
 ## The inpainting sources and masks 
-Images taken with a IR sensors, manually drawn map
+Images taken with a IR sensors, manually drawn mask
 
 IR1 ----------------------------------------------------------------------- IR2 
 
