@@ -8,4 +8,4 @@ IR1 ----------------------------------------------------------------------- IR2
 
 
 
-<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1.jpeg" width=20% height=20%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1_mask%26image.jpeg" width=20% height=20%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop2.jpeg" width=20% height=20%>
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1.jpeg" width=40% height=40%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1_mask%26image.jpeg" width=40% height=40%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop2.jpeg" width=40% height=40%>
