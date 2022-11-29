@@ -12,6 +12,7 @@ Original image ----------------------------------mask---------------------------
 <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1.jpeg" width=30% height=30%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop1_mask%26image.jpeg" width=30% height=30%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/DSC_0148crop2.jpeg" width=30% height=30%>
 
 ## inpainting IR1
+Style source is IR2
 
 DIP ---------------------------------------------------------------------------------------------------- DIPST 
 
@@ -25,6 +26,7 @@ DIPST Animation
 
 
 ## inpainting IR2
+Style source is IR1
 
 DIP ----------------------------------------------------------------------------------------------------- DIPST 
 
@@ -35,3 +37,9 @@ DIPST Animation
 
 
 ![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif3/gif.gif)
+
+
+## What if I use a wrong style? 
+Inpainting IR using as a style source the color image 
+
+![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif5/gif.gif)
