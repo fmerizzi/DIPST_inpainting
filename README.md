@@ -28,7 +28,7 @@ DIPST Animation
 
 DIP ----------------------------------------------------------------------- DIPST 
 
-<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2011:57:52.864176stWgh-0.02dip.png" width=40% height=40%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/dip.png" width=40% height=40%> 
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/dip.png" width=50% height=50%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/2022-11-29%2012:28:32.855615stWgh-0.05dipst.png" width=50% height=50%> 
 
 
 DIPST Animation 
