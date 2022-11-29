@@ -65,3 +65,9 @@ DIPST --------------------------------------------------------------------------
 ## Optimizing style only, using IR-1
 
 ![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif2/gif.gif)
+
+## Animation comparing DIP and DISPT on IR-1
+
+
+![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/dip_vs_dipst.gif)
+
