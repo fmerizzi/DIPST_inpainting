@@ -40,6 +40,14 @@ DIPST Animation
 
 ![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/gif3/gif.gif)
 
+## Using the IR mask to inpaint the color image 
+
+
+Original color ------------------------------------------------------------------------------------------------ DIP
+
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/tmp/IR-2colormid.jpg" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/tmp/2022-11-30%2013:48:46.144137stWgh-0.06.png" width=45% height=45%> 
+
+
 
 ## What if I use a wrong style? 
 Inpainting IR using as a style source the color image 
@@ -70,4 +78,6 @@ DIPST --------------------------------------------------------------------------
 
 
 ![DIPST](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/dip_vs_dipst.gif)
+
+
 
