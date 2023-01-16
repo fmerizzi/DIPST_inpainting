@@ -7,8 +7,9 @@ Original image --------------------------------------mask-----------------------
 
 DIP -------------------------------------------------------------------------------------------------------------------- DIPST 
 
-<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/DIP.png" width=45% height=45%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/DIPST.png" width=45% height=45%> 
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/DIP.png" width=49% height=49%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/DIPST.png" width=49% height=49%> 
 
+-----------------------GIF----------------------
 
 ![IR2](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/animatedGIF.gif)
 
