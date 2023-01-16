@@ -5,6 +5,11 @@ Original image --------------------------------------mask-----------------------
 <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/0100_1.jpg" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/0100_1mask.jpg" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/0100_2.jpg" width=32% height=32%>
 
 
+DIP ----------------------------------------------------------------------- DIPST 
+
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/DIP.png" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/DIPST.png" width=32% height=32%> 
+
+
 ![IR2](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/animatedGIF.gif)
 
 
