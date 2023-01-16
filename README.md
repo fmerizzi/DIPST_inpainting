@@ -1,4 +1,15 @@
+# Effective use of DIPST in medieval inpainting
+
+Original image --------------------------------------mask------------------------------------------------style source 
+
+<img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/0100_1.jpg" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/0100_1mask.jpg" width=32% height=32%> <img src="https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_sources/0100_2.jpg" width=32% height=32%>
+
+
+![IR2](https://github.com/fmerizzi/DIPST_inpainting/blob/main/inpainting_results/animatedGIF.gif)
+
+
 # Experiments using DIPST for inpainting medieval frescoes
+
 ## The inpainting sources and masks 
 Images taken with a IR sensors, manually drawn mask
 
